@@ -54,4 +54,4 @@ if __name__ == "__main__":
 #cd ~/transfermarkt-api          # proje kökünde olun
 #eval "$(poetry env activate)"    # venv hâlâ aktif değilse
 
-#uvicorn app.main:app --reload
+#uvicorn app.main:app --reload d
